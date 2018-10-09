@@ -1,3 +1,5 @@
+// [tower of hanoi]
+
 #include <stdio.h>
 
 // n => total number of disks
